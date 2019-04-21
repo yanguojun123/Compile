@@ -1,0 +1,5 @@
+﻿  lexAn.cpp
+c:\users\yanguojun\source\repos\lexan\lexan\recursion.h(59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yanguojun\source\repos\lexan\lexan\recursion.h(266): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yanguojun\source\repos\lexan\lexan\recursion.h(1270): warning C4715: “findSymbleAddr”: 不是所有的控件路径都返回值
+  lexAn.vcxproj -> C:\Users\yanguojun\source\repos\lexAn\Debug\lexAn.exe
